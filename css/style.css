@@ -6,7 +6,17 @@ font-family:Poppins,sans-serif;
 }
 
 body{
-background:#f5f7fb;
+
+    font-family:'Poppins',sans-serif;
+
+    background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+
+    color:#fff;
+
+    min-height:100vh;
+
+}
+
 }
 
 header{
